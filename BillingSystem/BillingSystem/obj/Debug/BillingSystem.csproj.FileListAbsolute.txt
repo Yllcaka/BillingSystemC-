@@ -1,0 +1,11 @@
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csprojAssemblyReference.cache
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.cache
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmAdminDashboard.resources
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UserDashBoard.resources
