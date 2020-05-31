@@ -9,3 +9,7 @@ C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\De
 C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
 C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.frmAdminDashboard.resources
 C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UserDashBoard.resources
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmUsers.resources
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmLogin.resources
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmCategories.resources
+C:\Users\yllca\Desktop\C#\BillingSystemCSharp\BillingSystem\BillingSystem\obj\Debug\BillingSystem.UI.frmProducts.resources

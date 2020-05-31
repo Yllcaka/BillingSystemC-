@@ -8,13 +8,19 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BillingSystem
+namespace BillingSystem.UI
 {
-    public partial class UserDashBoard : Form
+    public partial class frmProducts : Form
     {
-        public UserDashBoard()
+        public frmProducts()
         {
             InitializeComponent();
+        }
+
+        private void pictureBoxClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            this.Hide();
         }
     }
 }

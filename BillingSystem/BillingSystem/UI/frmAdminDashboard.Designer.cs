@@ -85,18 +85,21 @@
             this.usersToolStripMenuItem.Name = "usersToolStripMenuItem";
             this.usersToolStripMenuItem.Size = new System.Drawing.Size(47, 20);
             this.usersToolStripMenuItem.Text = "Users";
+            this.usersToolStripMenuItem.Click += new System.EventHandler(this.usersToolStripMenuItem_Click);
             // 
             // categoryToolStripMenuItem
             // 
             this.categoryToolStripMenuItem.Name = "categoryToolStripMenuItem";
             this.categoryToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
             this.categoryToolStripMenuItem.Text = "Category";
+            this.categoryToolStripMenuItem.Click += new System.EventHandler(this.categoryToolStripMenuItem_Click);
             // 
             // productsToolStripMenuItem
             // 
             this.productsToolStripMenuItem.Name = "productsToolStripMenuItem";
             this.productsToolStripMenuItem.Size = new System.Drawing.Size(66, 20);
             this.productsToolStripMenuItem.Text = "Products";
+            this.productsToolStripMenuItem.Click += new System.EventHandler(this.productsToolStripMenuItem_Click);
             // 
             // inventoryToolStripMenuItem
             // 
@@ -126,9 +129,9 @@
             this.lblUserName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(152)))), ((int)(((byte)(81)))), ((int)(((byte)(156)))));
             this.lblUserName.Location = new System.Drawing.Point(64, 40);
             this.lblUserName.Name = "lblUserName";
-            this.lblUserName.Size = new System.Drawing.Size(57, 13);
+            this.lblUserName.Size = new System.Drawing.Size(132, 13);
             this.lblUserName.TabIndex = 3;
-            this.lblUserName.Text = "Ylli Caka";
+            this.lblUserName.Text = "UserNamePlaceholder";
             // 
             // label1
             // 
@@ -140,6 +143,7 @@
             this.label1.Size = new System.Drawing.Size(61, 40);
             this.label1.TabIndex = 4;
             this.label1.Text = "My";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
             // 
@@ -151,6 +155,7 @@
             this.label2.Size = new System.Drawing.Size(98, 37);
             this.label2.TabIndex = 5;
             this.label2.Text = "Store";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label3
             // 
@@ -161,6 +166,7 @@
             this.label3.Size = new System.Drawing.Size(159, 13);
             this.label3.TabIndex = 6;
             this.label3.Text = "Billing and inventory managment";
+            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // frmAdminDashboard
             // 
@@ -179,7 +185,8 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Admin Dashboard";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmAdminDashboard_FormClosed);
+            this.Load += new System.EventHandler(this.frmAdminDashboard_Load);
             this.pnlFooter.ResumeLayout(false);
             this.pnlFooter.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
